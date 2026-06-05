@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 700px;
+    margin: 40px auto;
+    padding: 0 20px;
+    background: #f7f7f7;
+    color: #333;
+}
+
+h1 {
+    text-align: center;
+}
+
+.project-list {
+    list-style: none;
+    padding: 0;
+}
+
+.project-list li {
+    margin: 15px 0;
+}
+
+.project-list a {
+    text-decoration: none;
+    font-size: 1.2rem;
+    color: #0066cc;
+}
+
+.project-list a:hover {
+    text-decoration: underline;
+}
